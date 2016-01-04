@@ -1,0 +1,23 @@
+//
+//  PrefixHeader.pch
+//  ProductPush
+//
+//  Created by 高振伟 on 15-7-7.
+//  Copyright (c) 2015年 BIT-高振伟. All rights reserved.
+//
+
+#ifndef ProductPush_PrefixHeader_pch
+#define ProductPush_PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+
+//#define BASE_URL @"http://1.202.226.105/sugonProj/"
+//#define IMAGE_BASE_URL @"http://1.202.226.105/"
+
+#define BASE_URL @"http://x86.sugon.com/sugonProj/"
+#define IMAGE_BASE_URL @"http://x86.sugon.com/"
+
+#define kRemotePushNotification @"remotePushNotification"
+
+
+#endif
